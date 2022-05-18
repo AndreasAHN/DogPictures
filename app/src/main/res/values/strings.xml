@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dog Pictures</string>
+    <string name="dog_pictures">Dog pictures</string>
+    <string name="secure_random">Secure Random</string>
+    <string name="Slideshow">Slideshow</string>
+    <string name="loading">Loading...</string>
+    <string name="SlideshowON">Slideshow ON\nNow keeping screen alive</string>
+    <string name="SlideshowOFF">Slideshow OFF</string>
+    <string name="SecuringRandompictureON">Securing Random picture ON</string>
+    <string name="SecuringRandompictureOFF">Securing Random picture OFF</string>
+    <string name="CouldntFetchImage">\"Couldn\'t fetch image : \"</string>
+    <string name="AnErrorOccurred">An error Occurred:</string>
+    <string name="slideshow_speed">Slideshow speed:</string>
+</resources>

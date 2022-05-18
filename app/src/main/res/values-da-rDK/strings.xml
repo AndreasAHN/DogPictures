@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hunde Billeder</string>
+    <string name="dog_pictures">Hunde billeder</string>
+    <string name="secure_random">Sikre Random</string>
+    <string name="Slideshow">Diasshow</string>
+    <string name="loading">Indlæser...</string>
+    <string name="SlideshowON">Diashow Til\nHolder nu skærmen i live</string>
+    <string name="SlideshowOFF">Diashow Fra</string>
+    <string name="SecuringRandompictureON">Sikre Random billede Til</string>
+    <string name="SecuringRandompictureOFF">Sikre Random billede Fra</string>
+    <string name="CouldntFetchImage">\"Kunne ikke hente billedet: \"</string>
+    <string name="AnErrorOccurred">En fejl opstod:</string>
+    <string name="slideshow_speed">Diashow hastighed:</string>
+</resources>
